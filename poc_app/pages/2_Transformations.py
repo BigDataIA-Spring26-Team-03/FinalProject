@@ -64,11 +64,11 @@ with st.expander("🔢 Transform 1 — HTS Code Splitting (Source 1)", expanded=
     df = pd.DataFrame(records)
 
     LEVEL_COLORS = {
-        "statistical": "background-color: #d5f5e3",
-        "subheading": "background-color: #d6eaf8",
-        "heading": "background-color: #fef9e7",
-        "chapter": "background-color: #fdebd0",
-        "header": "background-color: #f2f3f4",
+        "statistical": "background-color: #d5f5e3; color: #1a1a1a",
+        "subheading": "background-color: #d6eaf8; color: #1a1a1a",
+        "heading": "background-color: #fef9e7; color: #1a1a1a",
+        "chapter": "background-color: #fdebd0; color: #1a1a1a",
+        "header": "background-color: #f2f3f4; color: #1a1a1a",
     }
 
     def color_level(val):
