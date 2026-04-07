@@ -15,6 +15,13 @@
 
 ---
 
+| Resource | Link |
+|---|---|
+| 📹 Demo Video | [YouTube](https://youtu.be/6i6KgKRNOPs) |
+| 📋 Proposal Document | [Google Docs](https://docs.google.com/document/d/17Li9KOo8oT_stR5Ub6cVK2EzPJdUgTTmyNiLRfbTfdI/edit?usp=sharing) |
+| 🧪 CodeLabs | [Codelab Preview](https://codelabs-preview.appspot.com/?file_id=1yQYEhEw4kgdSCLw9ahbBzbuS6SimOu1LME1asgVXb98#0) |
+| 🏗️ Architecture Diagram | [View Diagram](#architecture) |
+
 ## Table of Contents
 
 - [Background](#background)
